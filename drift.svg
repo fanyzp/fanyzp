@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="48" viewBox="0 0 380 48" fill="none">
+  <line x1="48" y1="24" x2="332" y2="24" stroke="#2e3338" stroke-width="1"/>
+  <circle cx="48" cy="24" r="2.5" fill="#9aa0a6">
+    <animate attributeName="cx" values="48;332;48" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".25;.85;.25" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="332" cy="24" r="2" fill="#6b7280">
+    <animate attributeName="cx" values="332;48;332" dur="23s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".2;.6;.2" dur="23s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="190" cy="24" r="1.5" fill="#5a6167">
+    <animate attributeName="opacity" values=".2;.7;.2" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
